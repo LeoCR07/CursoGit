@@ -9,3 +9,8 @@ git add. //agrega todo los archivos a el area
 cuando la M sale roja es porque no se agregado a el area
 cuando sale en verde es porque ya se agregro al area 
 pero no se a guardado
+
+git pull //traer desde remotogit 
+git tag 04/03/2021v1 -m"Version 1"  //agregarles tags 
+git push --tags  //subir los tag a la pagina
+
